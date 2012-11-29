@@ -1,0 +1,25 @@
+{
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Dayle Rees Color Schemes/Iceberg.tmTheme",
+	"default_line_ending": "unix",
+	"font_size": 11.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"rulers":
+	[
+		80
+	],
+	"scroll_speed": 1.0,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": false,
+	"wrap_width": 80,
+	"highlight_modified_tabs": true
+}
