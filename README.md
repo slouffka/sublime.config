@@ -12,7 +12,7 @@ Various SublimeText 2 config files I'm using for development
 * Highlight current line
 * Highlight modified tabs
 * Unix line endings
-* Tabs & size 4
+* Tabs & size 4 (you'd better have syntax specific configs to change this)
 
 # Vintage mode videos
 
