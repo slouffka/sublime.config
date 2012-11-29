@@ -20,4 +20,4 @@ Various SublimeText 2 config files I'm using for development
 
 # Videos
 
-* [Sublime Text 2 tutorial part 26: Vintage Mode](https://www.youtube.com/watch?feature=player_detailpage&v=U5ZYOmo0KuI)
+* [Sublime Text 2 tutorial part 26: Vintage Mode](https://www.youtube.com/watch?feature=player_detailpage&v=U5ZYOmo0KuI) - Better than 1000 words!
