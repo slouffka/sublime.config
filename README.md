@@ -8,13 +8,15 @@ Various SublimeText 2 config files I'm using for development
 * [Vintage Mode](http://www.sublimetext.com/docs/2/vintage.html) mode on (use with [VintageEx](https://github.com/SublimeText/VintageEx))
 * Ruler at 80 column
 * Word wrap off
+* Highlight only current indent guide
+* Highlight current line
 * Highlight modified tabs
 * Unix line endings
 * Tabs & size 4
 
 # Vintage mode videos
 
-* [Sublime Text 2 tutorial part 26: Vintage Mode](https://www.youtube.com/watch?feature=player_detailpage&v=U5ZYOmo0KuI) - Better than 1000 words!
+* [Sublime Text 2 tutorial part 26: Vintage Mode](https://www.youtube.com/watch?feature=player_detailpage&v=U5ZYOmo0KuI) - better than 1000 words!
 
 # Vim cheat sheets
 
